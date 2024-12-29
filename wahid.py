@@ -1,0 +1,1 @@
+git clone https://github.com/RIAN-XD/post_share cd post_share python run.py
